@@ -1,0 +1,18 @@
+[submodule "sr"]
+	path = sr
+	url = https://github.com/InstantWebP2P/sr.p4
+[submodule "vtep"]
+	path = vtep
+	url = https://github.com/InstantWebP2P/vtep.p4
+[submodule "tag"]
+	path = tag
+	url = https://github.com/InstantWebP2P/tag.p4
+[submodule "nat"]
+	path = nat
+	url = https://github.com/InstantWebP2P/nat.p4
+[submodule "lb"]
+	path = lb
+	url = https://github.com/InstantWebP2P/lb.p4
+[submodule "fw"]
+	path = fw
+	url = https://github.com/InstantWebP2P/fw.p4
